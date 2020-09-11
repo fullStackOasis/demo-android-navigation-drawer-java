@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_patient_details"
+            android:icon="@drawable/ic_menu_patientdetails"
+            android:title="@string/menu_patient_details" />
+        <item
+            android:id="@+id/nav_current_rx"
+            android:icon="@drawable/ic_menu_currentrx"
+            android:title="@string/menu_current_rx" />
+        <item
+            android:id="@+id/nav_symptoms"
+            android:icon="@drawable/ic_menu_symptoms"
+            android:title="@string/menu_symptoms" />
+    </group>
+</menu>

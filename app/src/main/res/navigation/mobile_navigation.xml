@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_patient_details">
+
+    <fragment
+        android:id="@+id/nav_patient_details"
+        android:name="com.fullstackoasis.demonavigationdrawer.ui.patientdetails.PatientDetailsFragment"
+        android:label="@string/menu_patient_details"
+        tools:layout="@layout/fragment_patientdetails" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_current_rx"
+        android:name="com.fullstackoasis.demonavigationdrawer.ui.currentrx.CurrentRxFragment"
+        android:label="@string/menu_current_rx"
+        tools:layout="@layout/fragment_currentrx"
+        />
+
+    <fragment
+        android:id="@+id/nav_symptoms"
+        android:name="com.fullstackoasis.demonavigationdrawer.ui.symptoms.SymptomsFragment"
+        android:label="@string/menu_symptoms"
+        tools:layout="@layout/fragment_symptoms"/>
+</navigation>
