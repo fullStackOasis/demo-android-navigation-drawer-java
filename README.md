@@ -11,3 +11,5 @@ Then select "design view" (the widget looks like a standard icon for pictures, s
 ![https://github.com/fullStackOasis/demo-android-navigation-drawer-java/raw/master/android_studio_mobile_navigation_xml_view.png](https://github.com/fullStackOasis/demo-android-navigation-drawer-java/raw/master/android_studio_mobile_navigation_xml_view.png)
 
 [There's a youtube video for commit b066f03](https://www.youtube.com/watch?v=kJ4lJlDc9-Y)
+
+[Here's a youtube video that shows how to add a new "destination" using desing view on mobile_navigation.xml](https://youtu.be/yHp2WqPy_CE)
