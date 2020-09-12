@@ -16,5 +16,9 @@
             android:id="@+id/nav_symptoms"
             android:icon="@drawable/ic_menu_symptoms"
             android:title="@string/menu_symptoms" />
+        <item
+            android:id="@+id/nav_treatment_plan"
+            android:icon="@drawable/ic_menu_treatment_plan"
+            android:title="@string/treatment_plan" />
     </group>
 </menu>
