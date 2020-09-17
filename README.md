@@ -12,4 +12,4 @@ Then select "design view" (the widget looks like a standard icon for pictures, s
 
 [There's a youtube video for commit b066f03](https://www.youtube.com/watch?v=kJ4lJlDc9-Y)
 
-[Here's a youtube video that shows how to add a new "destination" using desing view on mobile_navigation.xml](https://youtu.be/yHp2WqPy_CE)
+[Here's a youtube video that shows how to add a new "destination" using design view on mobile_navigation.xml](https://youtu.be/yHp2WqPy_CE)
