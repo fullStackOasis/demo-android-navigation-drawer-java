@@ -17,4 +17,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="treatment_plan">Treatment Plan</string>
+    <string name="go_to_symptoms">Go to Symptoms</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
 </resources>
